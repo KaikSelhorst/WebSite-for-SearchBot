@@ -16,6 +16,10 @@ li {
   text-decoration: none;
   color: white;
 }
+img {
+  display: block;
+  max-width: 100%;
+}
 /* FECHAMENTO*/
 
 .menu-bg {
@@ -24,7 +28,6 @@ li {
   max-width: 900px;
   margin: 0 auto;
 }
-
 .logo {
   width: 70px;
 }
