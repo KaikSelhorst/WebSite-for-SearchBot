@@ -1,0 +1,30 @@
+/* RESET */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: "Telex", sans-serif;
+}
+
+a,
+p,
+ul,
+li {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+}
+/* FECHAMENTO*/
+
+.menu-bg {
+  background: #2c2829;
+  height: 60px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 70px;
+}
