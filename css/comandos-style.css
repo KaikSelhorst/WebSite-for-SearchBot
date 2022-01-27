@@ -181,8 +181,13 @@ a {
   flex-direction: column;
   max-width: 900px;
   margin: 0 auto;
+  text-align: center;
 }
-
+.conteiner pre {
+  font-size: 1.4em;
+  color: #cbb18a;
+  background: rgba(44, 44, 44, 0.3);
+}
 /* FOOTER */
 footer {
   background-color: #2c2829;
